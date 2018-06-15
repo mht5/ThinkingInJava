@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<people>
+    <person>
+        <first>sam</first>
+        <last>the slayer</last>
+        <address>room 1</address>
+        <city>The Wall</city>
+        <zip>123456</zip>
+    </person>
+    <person>
+        <first>jon</first>
+        <last>the nothing knower</last>
+        <address>room 2</address>
+        <city>The Wall</city>
+        <zip>123456</zip>
+    </person>
+    <person>
+        <first>brandon</first>
+        <last>the builder</last>
+        <address>house 1</address>
+        <city>Winterfell</city>
+        <zip>123456</zip>
+    </person>
+</people>
